@@ -4,3 +4,4 @@ Automatically synchronized LeetCode solutions
 | 20 | Valid Parentheses | Java | [Solution](./0020-valid-parentheses/ValidParentheses.java) |
 | 1 | Two Sum | Java | [Solution](./0001-two-sum/TwoSum.java) |
 | 9 | Palindrome Number | Java | [Solution](./0009-palindrome-number/PalindromeNumber.java) |
+| 50 | Pow(x, n) | Java | [Solution](./0050-pow-x-n/PowXN.java) |

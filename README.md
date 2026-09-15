@@ -7,3 +7,4 @@ Automatically synchronized LeetCode solutions
 | 50 | Pow(x, n) | Java | [Solution](./0050-pow-x-n/PowXN.java) |
 | 13 | Roman to Integer | Java | [Solution](./0013-roman-to-integer/RomanToInteger.java) |
 | 35 | Search Insert Position | Java | [Solution](./0035-search-insert-position/SearchInsertPosition.java) |
+| 58 | Length of Last Word | Java | [Solution](./0058-length-of-last-word/LengthOfLastWord.java) |

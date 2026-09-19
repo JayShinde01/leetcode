@@ -12,3 +12,4 @@ Automatically synchronized LeetCode solutions
 | 226 | Invert Binary Tree | Java | [Solution](./0226-invert-binary-tree/InvertBinaryTree.java) |
 | 94 | Binary Tree Inorder Traversal | Java | [Solution](./0094-binary-tree-inorder-traversal/BinaryTreeInorderTraversal.java) |
 | 100 | Same Tree | Java | [Solution](./0100-same-tree/SameTree.java) |
+| 101 | Symmetric Tree | Java | [Solution](./0101-symmetric-tree/SymmetricTree.java) |

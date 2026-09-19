@@ -14,17 +14,8 @@
  * }
  */
 class Solution {
-    public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> ls = new ArrayList<>();
-        postOrder(root,ls);
-        return ls;
-    }
-    public void postOrder(TreeNode node, List<Integer> list){
-        if(node == null){
-            return;
-        }
-        postOrder(node.left,list);
-        postOrder(node.right,list);
-        list.add(node.val);
+    public int maxDepth(TreeNode root) {
+        if(root == null)return 0;
+        return 1 + Math.max(maxDepth(root.left),maxDepth(root.right));
     }
 }

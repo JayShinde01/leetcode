@@ -15,3 +15,4 @@ Automatically synchronized LeetCode solutions
 | 101 | Symmetric Tree | Java | [Solution](./0101-symmetric-tree/SymmetricTree.java) |
 | 104 | Maximum Depth of Binary Tree | Java | [Solution](./0104-maximum-depth-of-binary-tree/MaximumDepthOfBinaryTree.java) |
 | 112 | Path Sum | Java | [Solution](./0112-path-sum/PathSum.java) |
+| 144 | Binary Tree Preorder Traversal | Java | [Solution](./0144-binary-tree-preorder-traversal/BinaryTreePreorderTraversal.java) |

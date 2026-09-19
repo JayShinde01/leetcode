@@ -9,3 +9,4 @@ Automatically synchronized LeetCode solutions
 | 35 | Search Insert Position | Java | [Solution](./0035-search-insert-position/SearchInsertPosition.java) |
 | 58 | Length of Last Word | Java | [Solution](./0058-length-of-last-word/LengthOfLastWord.java) |
 | 66 | Plus One | Java | [Solution](./0066-plus-one/PlusOne.java) |
+| 226 | Invert Binary Tree | Java | [Solution](./0226-invert-binary-tree/InvertBinaryTree.java) |

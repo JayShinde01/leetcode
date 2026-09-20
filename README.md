@@ -17,3 +17,4 @@ Automatically synchronized LeetCode solutions
 | 112 | Path Sum | Java | [Solution](./0112-path-sum/PathSum.java) |
 | 144 | Binary Tree Preorder Traversal | Java | [Solution](./0144-binary-tree-preorder-traversal/BinaryTreePreorderTraversal.java) |
 | 501 | Find Mode in Binary Search Tree | Java | [Solution](./0501-find-mode-in-binary-search-tree/FindModeInBinarySearchTree.java) |
+| 108 | Convert Sorted Array to Binary Search Tree | Java | [Solution](./0108-convert-sorted-array-to-binary-search-tree/ConvertSortedArrayToBinarySearchTree.java) |

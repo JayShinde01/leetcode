@@ -18,3 +18,4 @@ Automatically synchronized LeetCode solutions
 | 144 | Binary Tree Preorder Traversal | Java | [Solution](./0144-binary-tree-preorder-traversal/BinaryTreePreorderTraversal.java) |
 | 501 | Find Mode in Binary Search Tree | Java | [Solution](./0501-find-mode-in-binary-search-tree/FindModeInBinarySearchTree.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | Java | [Solution](./0108-convert-sorted-array-to-binary-search-tree/ConvertSortedArrayToBinarySearchTree.java) |
+| 2331 | Evaluate Boolean Binary Tree | Java | [Solution](./2331-evaluate-boolean-binary-tree/EvaluateBooleanBinaryTree.java) |

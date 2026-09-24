@@ -20,3 +20,4 @@ Automatically synchronized LeetCode solutions
 | 108 | Convert Sorted Array to Binary Search Tree | Java | [Solution](./0108-convert-sorted-array-to-binary-search-tree/ConvertSortedArrayToBinarySearchTree.java) |
 | 2331 | Evaluate Boolean Binary Tree | Java | [Solution](./2331-evaluate-boolean-binary-tree/EvaluateBooleanBinaryTree.java) |
 | 136 | Single Number | Java | [Solution](./0136-single-number/SingleNumber.java) |
+| 121 | Best Time to Buy and Sell Stock | Java | [Solution](./0121-best-time-to-buy-and-sell-stock/BestTimeToBuyAndSellStock.java) |

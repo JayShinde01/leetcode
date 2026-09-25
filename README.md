@@ -24,3 +24,4 @@ Automatically synchronized LeetCode solutions
 | 242 | Valid Anagram | Java | [Solution](./0242-valid-anagram/ValidAnagram.java) |
 | 278 | First Bad Version | Java | [Solution](./0278-first-bad-version/FirstBadVersion.java) |
 | 290 | Word Pattern | Java | [Solution](./0290-word-pattern/WordPattern.java) |
+| 367 | Valid Perfect Square | Java | [Solution](./0367-valid-perfect-square/ValidPerfectSquare.java) |

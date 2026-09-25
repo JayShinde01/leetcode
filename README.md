@@ -21,3 +21,4 @@ Automatically synchronized LeetCode solutions
 | 2331 | Evaluate Boolean Binary Tree | Java | [Solution](./2331-evaluate-boolean-binary-tree/EvaluateBooleanBinaryTree.java) |
 | 136 | Single Number | Java | [Solution](./0136-single-number/SingleNumber.java) |
 | 121 | Best Time to Buy and Sell Stock | Java | [Solution](./0121-best-time-to-buy-and-sell-stock/BestTimeToBuyAndSellStock.java) |
+| 242 | Valid Anagram | Java | [Solution](./0242-valid-anagram/ValidAnagram.java) |

@@ -1,14 +1,15 @@
 class Solution {
-    public int countTriples(int n) {
-        int count = 0 ;
-        for(int a = 1 ; a <= n ; a++ ){
-            for(int b = 1 ; b <= n ; b++){
-                for(int c = 1 ; c <= n ; c++){
-                    if(a*a + b*b == c*c )
-                        count++;
-                }
-            }
+    public int fib(int n) {
+        int dp[] = new int[n + 1];
+        return helper(n,dp);
+    }
+    public int helper(int n,int dp[]){
+        if(n <= 1){
+            return n;
         }
-        return count;
+        if(dp[n] != 0){
+            return dp[n];
+        }
+        return dp[n] = helper(n-1,dp)+helper(n-2,dp);
     }
 }

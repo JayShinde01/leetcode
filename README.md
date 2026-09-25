@@ -28,3 +28,4 @@ Automatically synchronized LeetCode solutions
 | 1925 | Count Square Sum Triples | Java | [Solution](./1925-count-square-sum-triples/CountSquareSumTriples.java) |
 | 70 | Climbing Stairs | Java | [Solution](./0070-climbing-stairs/ClimbingStairs.java) |
 | 509 | Fibonacci Number | Java | [Solution](./0509-fibonacci-number/FibonacciNumber.java) |
+| 1137 | N-th Tribonacci Number | Java | [Solution](./1137-n-th-tribonacci-number/NThTribonacciNumber.java) |

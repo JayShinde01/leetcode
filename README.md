@@ -26,3 +26,4 @@ Automatically synchronized LeetCode solutions
 | 290 | Word Pattern | Java | [Solution](./0290-word-pattern/WordPattern.java) |
 | 367 | Valid Perfect Square | Java | [Solution](./0367-valid-perfect-square/ValidPerfectSquare.java) |
 | 1925 | Count Square Sum Triples | Java | [Solution](./1925-count-square-sum-triples/CountSquareSumTriples.java) |
+| 70 | Climbing Stairs | Java | [Solution](./0070-climbing-stairs/ClimbingStairs.java) |

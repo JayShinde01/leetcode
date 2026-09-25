@@ -23,3 +23,4 @@ Automatically synchronized LeetCode solutions
 | 121 | Best Time to Buy and Sell Stock | Java | [Solution](./0121-best-time-to-buy-and-sell-stock/BestTimeToBuyAndSellStock.java) |
 | 242 | Valid Anagram | Java | [Solution](./0242-valid-anagram/ValidAnagram.java) |
 | 278 | First Bad Version | Java | [Solution](./0278-first-bad-version/FirstBadVersion.java) |
+| 290 | Word Pattern | Java | [Solution](./0290-word-pattern/WordPattern.java) |

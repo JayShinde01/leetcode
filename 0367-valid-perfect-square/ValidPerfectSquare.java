@@ -1,23 +1,18 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    public int minDepth(TreeNode root) {
-        if(root == null)return 0;
-        int lh = minDepth(root.left);
-        int rh = minDepth(root.right);
-        return 1 + Math.min(lh,rh);
+    public int countTriples(int n) {
+        int count = 0;
+
+        for (int a = 1; a <= n; a++) {
+            for (int b = 1; b <= n; b++) {
+                for (int c = 1; c <= n; c++) {
+
+                    if (a * a + b * b == c * c) {
+                        count++;
+                    }
+                }
+            }
+        }
+
+        return count;
     }
 }

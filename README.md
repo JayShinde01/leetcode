@@ -30,3 +30,4 @@ Automatically synchronized LeetCode solutions
 | 509 | Fibonacci Number | Java | [Solution](./0509-fibonacci-number/FibonacciNumber.java) |
 | 1137 | N-th Tribonacci Number | Java | [Solution](./1137-n-th-tribonacci-number/NThTribonacciNumber.java) |
 | 198 | House Robber | Java | [Solution](./0198-house-robber/HouseRobber.java) |
+| 213 | House Robber II | Java | [Solution](./0213-house-robber-ii/HouseRobberIi.java) |

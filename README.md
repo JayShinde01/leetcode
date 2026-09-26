@@ -29,3 +29,4 @@ Automatically synchronized LeetCode solutions
 | 70 | Climbing Stairs | Java | [Solution](./0070-climbing-stairs/ClimbingStairs.java) |
 | 509 | Fibonacci Number | Java | [Solution](./0509-fibonacci-number/FibonacciNumber.java) |
 | 1137 | N-th Tribonacci Number | Java | [Solution](./1137-n-th-tribonacci-number/NThTribonacciNumber.java) |
+| 198 | House Robber | Java | [Solution](./0198-house-robber/HouseRobber.java) |

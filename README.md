@@ -33,3 +33,4 @@ Automatically synchronized LeetCode solutions
 | 213 | House Robber II | Java | [Solution](./0213-house-robber-ii/HouseRobberIi.java) |
 | 541 | Reverse String II | Java | [Solution](./0541-reverse-string-ii/ReverseStringIi.java) |
 | 3498 | Reverse Degree of a String | Java | [Solution](./3498-reverse-degree-of-a-string/ReverseDegreeOfAString.java) |
+| 3550 | Smallest Index With Digit Sum Equal to Index | Java | [Solution](./3550-smallest-index-with-digit-sum-equal-to-index/SmallestIndexWithDigitSumEqualToIndex.java) |

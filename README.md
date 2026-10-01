@@ -35,3 +35,4 @@ Automatically synchronized LeetCode solutions
 | 3498 | Reverse Degree of a String | Java | [Solution](./3498-reverse-degree-of-a-string/ReverseDegreeOfAString.java) |
 | 3550 | Smallest Index With Digit Sum Equal to Index | Java | [Solution](./3550-smallest-index-with-digit-sum-equal-to-index/SmallestIndexWithDigitSumEqualToIndex.java) |
 | 3870 | Count Commas in Range | Java | [Solution](./3870-count-commas-in-range/CountCommasInRange.java) |
+| 2553 | Separate the Digits in an Array | Java | [Solution](./2553-separate-the-digits-in-an-array/SeparateTheDigitsInAnArray.java) |

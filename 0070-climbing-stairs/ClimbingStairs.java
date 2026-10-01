@@ -1,5 +1,5 @@
 class Solution {
-    public int maxJump(int[] stones) {
+    public List<List<Integer>> combine(int n, int k) {
         
     }
 }

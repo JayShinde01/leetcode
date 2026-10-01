@@ -1,30 +1,20 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> ls = new ArrayList<>();
-        postOrder(root,ls);
-        return ls;
-    }
-    public void postOrder(TreeNode node, List<Integer> list){
-        if(node == null){
-            return;
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        for(char ch : s.toCharArray()){
+            if(ch == '(' || ch == '[' || ch == '{')
+                stack.push(ch);
+            else{
+                if(stack.isEmpty())
+                    return false;
+                
+                    char last = stack.pop();
+                    if(last == '(' && ch != ')' ||
+                        last == '[' && ch != ']' ||
+                        last == '{' && ch != '}')return false;
+                
+            }
         }
-        postOrder(node.left,list);
-        postOrder(node.right,list);
-        list.add(node.val);
+        return stack.isEmpty();
     }
 }
